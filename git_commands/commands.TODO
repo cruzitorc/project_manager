@@ -1,18 +1,28 @@
- ☐ git pull -r origin 
- ☐ git add .
- ☐ git commit -m "comment"
- ☐ git push origin master
- ☐ git remote -v
- ☐ git remote add origin /c/dropbox/git/project.git
- ☐ git clone /c/dropbox/git/project.git name_project
- ☐ git log
- ☐ rm -rf project.git
- ☐ git init --bare project.git //En el dropbox
- ☐ git init //En el proyecto
- ☐ cd ~/.ssh //Check for SSH keys
- ☐ ls
- ☐ ssh-keygen -t rsa -C "your_email@example.com" //Generate a new SSH key
- ☐ ssh-add id_rsa
- ☐ clip < ~/.ssh/id_rsa.pub //Add your SSH key to GitHub
- ☐ ssh -T git@github.com //Test Everything
+Commands for Development environment:
+  ☐ git add .
+  ☐ git commit -m "comment"
+  ☐ git pull -r origin
+  ☐ git push origin master
+
+Update & fusion:
+ref:http://rogerdudler.github.io/git-guide/index.es.html
+
+Commands:
+  ☐ git pull -r origin 
+  ☐ git add .
+  ☐ git commit -m "comment"
+  ☐ git push origin master
+  ☐ git remote -v
+  ☐ git remote add origin /c/dropbox/git/project.git
+  ☐ git clone /c/dropbox/git/project.git name_project
+  ☐ git log
+  ☐ rm -rf project.git
+  ☐ git init --bare project.git //En el dropbox
+  ☐ git init //En el proyecto
+  ☐ cd ~/.ssh //Check for SSH keys
+  ☐ ls
+  ☐ ssh-keygen -t rsa -C "your_email@example.com" //Generate a new SSH key
+  ☐ ssh-add id_rsa
+  ☐ clip < ~/.ssh/id_rsa.pub //Add your SSH key to GitHub
+  ☐ ssh -T git@github.com //Test Everything
 
