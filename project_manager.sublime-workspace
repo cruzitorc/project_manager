@@ -1,0 +1,870 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"im",
+				"image1"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"ne",
+				"networks"
+			],
+			[
+				"fau",
+				"fault"
+			],
+			[
+				"scr",
+				"SCRIPT	Tag"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"fun",
+				"function_exists"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"rig",
+				"rightside"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"is_log",
+				"is_user_logged_in"
+			],
+			[
+				"produ",
+				"product_cat"
+			],
+			[
+				"user",
+				"user_number"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"custom",
+				"custom_invoice"
+			],
+			[
+				"cu",
+				"current_user_id"
+			],
+			[
+				"cur",
+				"current_user_id"
+			],
+			[
+				"pa",
+				"payable_amount"
+			],
+			[
+				"ca",
+				"cant_places"
+			],
+			[
+				"us",
+				"user_email"
+			],
+			[
+				"send",
+				"send_invoce"
+			],
+			[
+				"template",
+				"TEMPLATEPATH"
+			],
+			[
+				"att",
+				"attribute"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"type",
+				"type_woonruimte"
+			],
+			[
+				"ope",
+				"open_sansregular"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"las",
+				"last-child"
+			],
+			[
+				"por",
+				"portfolio_div"
+			],
+			[
+				"regist",
+				"register_form"
+			],
+			[
+				"p",
+				"post	Post Template"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"asse",
+				"assets"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"input",
+				"input_type"
+			],
+			[
+				"wpp",
+				"wpp_meta_"
+			],
+			[
+				"display",
+				"display_name"
+			],
+			[
+				"curr",
+				"current_user"
+			],
+			[
+				"minch",
+				"mincha_fri"
+			],
+			[
+				"candles",
+				"candles_date"
+			],
+			[
+				"html",
+				"html_input"
+			],
+			[
+				"pro",
+				"profiel"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"ce",
+				"clear"
+			],
+			[
+				"n",
+				"nunitoregular"
+			],
+			[
+				"nu",
+				"nunitobold"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"boo",
+				"bookmark"
+			],
+			[
+				"fot",
+				"font-family"
+			],
+			[
+				"get_site",
+				"get_site_url"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"nuni",
+				"nunitolight"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"is_tax",
+				"is_taxonomy"
+			],
+			[
+				"port",
+				"portfolio_type"
+			],
+			[
+				"po",
+				"portfolio_type"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"ti",
+				"title-search"
+			],
+			[
+				"icon_size_",
+				"icon_size_h"
+			],
+			[
+				"ro",
+				"robotoregular"
+			],
+			[
+				"r",
+				"robotoregular"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"main",
+				"main-menu"
+			],
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pr",
+				"property"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"row",
+				"row-adv"
+			],
+			[
+				"do_sho",
+				"do_shortcode"
+			],
+			[
+				"min",
+				"minprice"
+			],
+			[
+				"at",
+				"attrib"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"abs",
+				"ABSPATH"
+			],
+			[
+				"fiel",
+				"fieldset	Tag"
+			],
+			[
+				"metabox",
+				"metabox_meta"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"widgets"
+			],
+			[
+				"getPro",
+				"getProduct"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax ru",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"bloc",
+				"Snippet: Start Docblock"
+			],
+			[
+				"blo",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sni",
+				"Snippet: html"
+			],
+			[
+				"syntax htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"snippe",
+				"Snippet: html"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-109/helpful-content-widget.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-109/shortcodes 2.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-109/wp-config.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-109/widgets.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-109/shortcodes.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-109/style.css",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-109/functions.php",
+		"/C/xampp/htdocs/publidisa/index.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-110/header.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-110/header 2.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-110/header.phtml",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-110/custom.css",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-110/footer.phtml",
+		"/C/xampp/htdocs/test/test.html",
+		"/C/xampp/htdocs/test/css/style.css",
+		"/C/xampp/htdocs/test/new.php",
+		"/C/xampp/htdocs/test/css/border-radius.htc",
+		"/C/xampp/htdocs/test/html5.html",
+		"/C/Ruby200-x64/devkit/config.yml",
+		"/D/Work/2012/mi_sitio_social_rails3/social_rails/app/views/layouts/application.html.erb",
+		"/C/Users/ray/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/ray/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Work/2012/mi_sitio_social_rails3/social_rails/app/views/home/index.html.erb",
+		"/C/Users/ray/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/ray/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/property.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/property-overview.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/wp-property 2.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/style.css",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/page-dashboard.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/phpminiadmin.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/wp-config.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/wp-config 2.php",
+		"/C/xampp/htdocs/budgetwoon_9_sept/wpclone_backup/database.sql",
+		"/C/xampp/htdocs/magento_1_6/install.php",
+		"/C/Users/ray/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/ray/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/C/xampp/htdocs/magento_1_6/app/code/local/Mage/Catalog/Block/Category/View.php",
+		"/C/Users/ray/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/custom_functions.js",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/wp-property.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/functions_advertentie.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/class_core.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/bookmarks.js",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/bookmark-functions.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/display-functions.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/scripts.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/functions.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/portfolio.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/latest_properties.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/class.communication.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/shortcodes.php",
+		"/C/Users/ray/Desktop/tgs-event-feeds.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/template-functions.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/style.css",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/wp-config 2.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/wp-config.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/footer 3.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/footer 2.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/functions.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/footer.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/responsive.css",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/user_picture.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/IDealGateway.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/payment.form.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/membershippublic.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/Plugin.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/page-register.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/budgetwoon-util.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/page-form.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/jquery.validationEngine-nl.js",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/validation.php",
+		"/C/xampp/htdocs/magento_1_6/index.html",
+		"/C/xampp/htdocs/magento_1_6/app/code/core/Mage/Adminhtml/Exception.php",
+		"/C/xampp/htdocs/magento_1_6/test.html",
+		"/C/xampp/htdocs/magento_1_6/index.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/mj-template 2.css",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/style 2.css",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/home.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/search.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/header.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/cart.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/mjmenu.css",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/mj-template.css",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/registration.form.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/up.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/subscription.form.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/contentresults.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/content-product.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/custom-style.css",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/pagination.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/archive-product.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/mj-mobile.css",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/red.css",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/single-product.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/content-single-product.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/taxonomy-product_cat.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/portfolio.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/page.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/fullwidthlayout.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/content-intro.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/archive.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/Category Listing.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/category.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/index.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/content.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/content-product_cat.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/loop-shop.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/author.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/content-page.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/advance-search-form.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/page-register.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/custom_functions.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/jquery.placeholder.js",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/profile.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-108/functions 2.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/property_metaboxes.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-105/style 4.css",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-105/mj-template.css",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-105/header.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-105/mjmenu.css",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-105/searchform.css",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-105/advance-search-form.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-105/searchform.js",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-105/place_detail.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-105/custom_functions.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-105/style 3.css",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-105/single.php"
+	],
+	"find":
+	{
+		"height": 143.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Content blo",
+			"image3",
+			"url",
+			"This is the Homepage Main Content section.",
+			"message_karma_coolblue",
+			"Magento Themes by Templates Master",
+			"reindent",
+			"code",
+			"format",
+			"DROP TABLE",
+			"DROP TABLE ",
+			"shortcode_owner_adv_attribute_offline",
+			"<script",
+			"delete_label",
+			"shortcode_owner_adv_attribute",
+			"shortcode_owner_adv_attribute_offline",
+			"display-wpp_search_element",
+			"$_SESSION['NewEventID']",
+			"JJ",
+			"footer",
+			"jj",
+			"<script",
+			"profile",
+			"aaiu-upload-container",
+			"#header",
+			"wpp_shortcode_search",
+			"<p",
+			"<p>",
+			"940",
+			"wpp_search_elements",
+			"#top_form input.wpp_search_button",
+			"top_form",
+			"<span",
+			"wpp_render_search_custom_input_top",
+			"top",
+			"wpp_search_group_title",
+			"wpp_search_toggle",
+			"wpp_search_toggle_close",
+			"wpp_search_label",
+			"checkuserajax",
+			"checkuser",
+			"validateFormLogin",
+			"validateForm",
+			"submit-login",
+			"validationEngine",
+			"engine",
+			"form_register",
+			"popup",
+			"property_show",
+			"clearbreak",
+			"search",
+			"Subscr",
+			"select",
+			"form",
+			"wpuf-attachment-upload-pickfiles",
+			"File size error",
+			"wpuf-attachment-upload-pickfiles",
+			"box-form",
+			"visual-form-builder",
+			"#mj-righttop",
+			"oswald !important",
+			"pagination",
+			"navigation",
+			"mjsimple_content_nav",
+			"nav-below",
+			"mj-slidetitle",
+			"woocommerce-ordering",
+			"\nSearch Results for",
+			"mj-slidetitle",
+			"mj-subcontainer",
+			"title",
+			"pa_isbn",
+			"product_cat",
+			"get_all_tags_in_category",
+			"cat",
+			"category_in",
+			"category__in",
+			"category_in",
+			"category__in",
+			"WP_Query",
+			">WP_Query",
+			"query",
+			"taxonomy",
+			"searchFilter",
+			"entry-title ",
+			"cat",
+			"user_id",
+			"profileform",
+			"Klantnummer",
+			"login",
+			"password",
+			"voornaam",
+			"menu-budgetwoon-hoofdmenu-container",
+			"class_mandatory",
+			".jsn-mainnav.navbar",
+			".jsn-mainnav.navbar .nav > li > a",
+			"Buscar en",
+			"post_type",
+			"post",
+			"advance-search",
+			"button",
+			".widget",
+			"form-wrapper",
+			"bdw_get_images",
+			"Deel je ervaring",
+			"comments",
+			"add_image_size",
+			".navbar .nav",
+			"145",
+			"max-he",
+			"145",
+			"max-he",
+			"Thank you, your information has been successfully received.",
+			"There was a problem with your payment.",
+			"oprekening",
+			"payable_amount",
+			"current_expire_date",
+			"/",
+			"*",
+			"current_user_id",
+			"#footer_optin h3",
+			"hidden",
+			"$_REQUEST['tcount']",
+			"property_info",
+			"submit_place",
+			"get_trips_from_autor_checkbox",
+			"sess",
+			"session"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"DROP TABLE",
+			"DROP",
+			"advance-search-form",
+			"enable_invoice_text_display",
+			"invoice_text_display",
+			"invoice_front_page_settings",
+			"invoice_configuration",
+			"",
+			"end",
+			"property",
+			"widget_latest_properties",
+			"Je abonnement verloopt op",
+			"abonnementen",
+			"Alle"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app/code",
+				"app/code/core/Mage/Adminhtml/Exception.php"
+			],
+			[
+				"price.html",
+				"app/design/frontend/ahoywinkelonline/default/template/catalog/product/price.phtml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 324.0,
+	"status_bar_visible": true
+}
