@@ -4,6 +4,9 @@ Commands for Development environment:
   ☐ git pull -r origin
   ☐ git push origin master
 
+ To delete a unused file use "rm" command
+  ☐ git rm license.txt
+
 Update & fusion:
 ref:http://rogerdudler.github.io/git-guide/index.es.html
 
