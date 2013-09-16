@@ -1,0 +1,248 @@
+<mockup version="1.0" skin="sketch" measuredW="1003" measuredH="1006" mockupW="695" mockupH="903">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="298" y="118" w="695" h="878" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="305" y="93" w="-1" h="-1" measuredW="123" measuredH="25" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Planes%20de%20Proyecto</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="491" y="195" w="-1" h="-1" measuredW="77" measuredH="29" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="333" y="151" w="626" h="-1" measuredW="816" measuredH="29" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Wedoist%20gestiona%202.000.000+%20actualizaciones%20de%20estado%2C%201.000.000+%20tareas%2C%201.000.000+%20comentarios%20y%20100.000+%20proyectos.</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="407" y="196" w="-1" h="-1" measuredW="113" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Wedoist%20Gratuito</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="725" y="196" w="-1" h="-1" measuredW="117" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Wedoist%20Ilimitado</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="364" y="219" w="-1" h="-1" measuredW="228" measuredH="25" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Para%20equipos%20de%203%20personas%20o%20menos</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="637" y="218" w="-1" h="-1" measuredW="292" measuredH="25" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Para%20proyectos%20ilimitados%20con%20equipos%20mayores</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="437" y="244" w="-1" h="-1" measuredW="52" measuredH="25" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>0%24/mes</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="735" y="243" w="-1" h="-1" measuredW="96" measuredH="25" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Solo%2024%24/mes%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="394" y="269" w="-1" h="-1" measuredW="138" measuredH="25" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Solo%20hasta%203%20usuarios</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="399" y="294" w="-1" h="-1" measuredW="128" measuredH="25" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Proyectos%20ilimitados</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="723" y="268" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Usuarios%20ilimitados</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="719" y="293" w="-1" h="-1" measuredW="128" measuredH="25" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Proyectos%20ilimitados</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="629" y="317" w="-1" h="-1" measuredW="314" measuredH="25" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>5%20GB%20de%20almacenamiento%20para%20todos%20los%20proyectos</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="689" y="364" w="-1" h="-1" measuredW="191" measuredH="25" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Registros%20de%20chat%20localizables</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="729" y="341" w="-1" h="-1" measuredW="110" measuredH="25" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Su%20logo%20y%20colores</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::TextInput" x="723" y="387" w="-1" h="-1" measuredW="118" measuredH="29" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Actualizar%20ahora</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="722" y="426" w="-1" h="-1" measuredW="122" measuredH="25" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>45-day%20Free%20Trial%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="642" y="451" w="-1" h="-1" measuredW="304" measuredH="25" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sin%20obligaciones%20ni%20tarjeta%20de%20cr%E9dito%20necesaria%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Label" x="590" y="476" w="-1" h="-1" measuredW="94" measuredH="25" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Garantizamos%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="543" y="501" w="-1" h="-1" measuredW="180" measuredH="25" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sin%20gastos%20de%20configuraci%F3n.</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Label" x="586" y="526" w="-1" h="-1" measuredW="94" measuredH="25" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sin%20contratos.</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Image" x="472" y="566" w="60" h="64" measuredW="77" measuredH="79" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PayPal%20VERIFIED</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Image" x="552" y="566" w="57" h="64" measuredW="77" measuredH="79" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>VISA</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Image" x="634" y="566" w="55" h="65" measuredW="77" measuredH="79" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Masterd%20Card</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Image" x="717" y="566" w="60" h="66" measuredW="77" measuredH="79" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>American%20Express</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="314" y="647" w="-1" h="-1" measuredW="308" measuredH="25" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%BFWedoist%20Ilimitado%20actualiza%20futuros%20proyectos%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="316" y="666" w="428" h="27" measuredW="300" measuredH="25" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>S%ED%2C%20Wedoist%20Ilimitado%20actualiza%20sus%20proyectos%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="316" y="710" w="-1" h="-1" measuredW="205" measuredH="25" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%BFHay%20tarifas%20por%20configuraci%F3n%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="316" y="725" w="-1" h="-1" measuredW="245" measuredH="25" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No.%20No%20hay%20tarifas%20por%20configuraci%F3n.</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="316" y="790" w="-1" h="-1" measuredW="290" measuredH="25" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No.%20Puede%20tener%20tantos%20usuarios%20como%20desee%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="316" y="769" w="-1" h="-1" measuredW="168" measuredH="25" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%BFHay%20tarifas%20por%20usuario%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Label" x="316" y="683" w="-1" h="-1" measuredW="131" measuredH="25" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>actuales%20y%20futuros.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="320" y="807" w="-1" h="-1" measuredW="224" measuredH="25" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>y%20el%20precio%20seguir%E1%20siendo%20el%20mismo.</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Label" x="316" y="844" w="-1" h="-1" measuredW="159" measuredH="25" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%BFQu%E9%20sucede%20si%20cancelo%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Label" x="318" y="862" w="-1" h="-1" measuredW="298" measuredH="25" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Si%20cancela%2C%20ser%E1%20facturado%20por%20el%20mes%20actual%2C%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="319" y="881" w="-1" h="-1" measuredW="225" measuredH="25" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>pero%20no%20le%20facturaremos%20de%20nuevo.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="629" y="646" w="-1" h="-1" measuredW="289" measuredH="25" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%BFTengo%20que%20firmar%20un%20contrato%20a%20largo%20plazo%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Label" x="631" y="665" w="-1" h="-1" measuredW="310" measuredH="25" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No.%20Wedoist%20es%20un%20servicio%20de%20pago%20mensual.%20No</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Label" x="632" y="684" w="-1" h="-1" measuredW="296" measuredH="25" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>hay%20contratos%20a%20largo%20plazo%20ni%20tarifas%20ocultas.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="632" y="703" w="-1" h="-1" measuredW="316" measuredH="25" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Simplemente%20paga%20mes%20a%20mes%20y%20puede%20cancelar%20en</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="631" y="721" w="-1" h="-1" measuredW="126" measuredH="25" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>cualquier%20momento.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Label" x="632" y="754" w="-1" h="-1" measuredW="249" measuredH="25" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>How%20does%20the%2045-day%20free%20trial%20work%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="632" y="774" w="-1" h="-1" measuredW="322" measuredH="25" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>If%20you%20cancel%20your%20subscription%20within%2045%20days%20of%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="632" y="790" w="-1" h="-1" measuredW="273" measuredH="25" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>signing%20up%20you%20won%27t%20be%20charged%20anything.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="633" y="822" w="-1" h="-1" measuredW="284" measuredH="25" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%BFPuede%20ver%20un%20resumen%20de%20los%20pagos%20que%20he%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="635" y="841" w="-1" h="-1" measuredW="69" measuredH="25" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>realizado%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Label" x="632" y="866" w="-1" h="-1" measuredW="315" measuredH="25" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>S%ED%2C%20haga%20clic%20aqu%ED%20para%20ver%20una%20lista%20de%20todos%20los</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Label" x="632" y="883" w="-1" h="-1" measuredW="208" measuredH="25" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>pagos%20que%20ha%20hecho%20a%20Wedoist.%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
