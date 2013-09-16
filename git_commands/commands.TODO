@@ -4,6 +4,11 @@ Commands for Development environment:
   ☐ git pull -r origin
   ☐ git push origin master
 
+Say the remote is origin and the branch is master, and say you already have master checked out, might try the following:
+ ☐ git fetch origin
+ ☐ git reset --hard origin/master
+ This basically just takes the current branch and points it to the HEAD of the remote branch.
+
  To delete a unused file use "rm" command
   ☐ git rm license.txt
 
