@@ -1,0 +1,30 @@
+<mockup version="1.0" skin="sketch" measuredW="771" measuredH="391" mockupW="366" mockupH="285">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::ModalScreen" x="395" y="96" w="366" h="285" measuredW="320" measuredH="240" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="407" y="104" w="-1" h="-1" measuredW="119" measuredH="25" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sus%20Proyectos</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Menu" x="407" y="140" w="273" h="-1" measuredW="150" measuredH="110" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ver%20Consola%0AAdministrar%20y%20ver%20todos%20los%20proyectos%0ACrear%20un%20nuevo%20proyecto%0AProject%20Test</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="407" y="144" w="22" h="20" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="407" y="173" w="21" h="19" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="407" y="199" w="19" h="17" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
