@@ -1,0 +1,65 @@
+<mockup version="1.0" skin="sketch" measuredW="1063" measuredH="422" mockupW="819" mockupH="341">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="234" y="71" w="819" h="341" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="249" y="71" w="-1" h="-1" measuredW="151" measuredH="25" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Suscribirse%20a%20iCalendar</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="286" y="111" w="-1" h="-1" measuredW="386" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ver%20tareas%20de%20este%20proyecto%20en%20su%20aplicaci%F3n%20de%20calendario.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="317" y="145" w="147" h="25" measuredW="136" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%09o%20copie%20la%20URL%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="286" y="215" w="-1" h="-1" measuredW="657" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Funciona%20con%20Google%20Calendar%2C%20Outlook%2C%20iCal%20y%20otros.%20Esta%20es%20su%20URL%20personal.%20No%20comparta%20su%20feed%20de</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="286" y="280" w="-1" h="-1" measuredW="128" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%BFQu%E9%20es%20iCalendar%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="286" y="240" w="-1" h="-1" measuredW="158" measuredH="25" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>iCalendar%20con%20nadie%20m%E1s.</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="286" y="190" w="-1" h="-1" measuredW="428" measuredH="25" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Simplemente%20a%F1ada%20la%20URL%20anterior%20para%20su%20aplicaci%F3n%20de%20Calendario</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="286" y="160" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CalendarIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::TextInput" x="445" y="142" w="304" h="-1" measuredW="946" measuredH="29" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>webcal%3A//wedoist.com/API/Export/getIcalFeed%3Fuser_id%3D92322%26project_id%3D100112%26csrf_token%3D2d60ae5336a992a0332142b0d36067f9%26r_factor%3D9954</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="286" y="305" w="-1" h="-1" measuredW="679" measuredH="25" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>iCalendar%20es%20un%20est%E1ndar%20que%20permite%20a%20los%20calendarios%20compartir%20informaci%F3n.%20Si%20se%20suscribe%20a%20los%20feeds%20de</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="286" y="330" w="-1" h="-1" measuredW="622" measuredH="25" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>iCalendar%20de%20Wedoist%20podr%E1%20ver%20sus%20tareas%20Wedoist%20al%20lado%20de%20sus%20otros%20elementos%20del%20calendario.</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="1024" y="76" w="-1" h="-1" measuredW="15" measuredH="25" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>X</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

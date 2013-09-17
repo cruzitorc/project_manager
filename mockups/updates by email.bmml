@@ -1,0 +1,161 @@
+<mockup version="1.0" skin="sketch" measuredW="1101" measuredH="827" mockupW="859" mockupH="780">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="232" y="62" w="859" h="755" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="239" y="70" w="-1" h="-1" measuredW="220" measuredH="25" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tareas%20o%20actualizaciones%20por%20email</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="1068" y="69" w="-1" h="-1" measuredW="15" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>X</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="253" y="95" w="-1" h="-1" measuredW="681" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Reenviar%20emails%2C%20a%F1adir%20actualizaciones%20o%20tareas%20a%20trav%E9s%20de%20email%20para%20delegar%20trabajo%20de%20este%20proyecto.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="304" y="116" w="-1" h="-1" measuredW="155" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Crear%20un%20email%20de%20tarea</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="304" y="134" w="556" h="22" measuredW="556" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enviar%20o%20reenviar%20un%20email%20a%20esta%20direcci%F3n%20para%20crear%20una%20tarea.%20El%20asunto%20del%20email%20se</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="239" y="120" w="59" h="70" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="239" y="199" w="59" h="71" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="304" y="150" w="-1" h="-1" measuredW="583" measuredH="25" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>convertir%E1%20en%20el%20contenido%20de%20la%20tarea%20mientras%20que%20el%20cuerpo%20ser%E1%20a%F1adido%20como%20comentario.</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="304" y="170" w="-1" h="-1" measuredW="311" measuredH="25" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Project%20Test%20Task%20%3Cinbox.100112@wedoist.net%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="304" y="199" w="-1" h="-1" measuredW="267" measuredH="25" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Crear%20un%20email%20de%20actualizaci%F3n%20de%20estado</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="304" y="221" w="-1" h="-1" measuredW="619" measuredH="25" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enviar%20o%20reenviar%20un%20email%20a%20esta%20direcci%F3n%20para%20crear%20una%20actualizaci%F3n%20de%20estado.%20El%20asunto%20del%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="304" y="238" w="-1" h="-1" measuredW="583" measuredH="25" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>email%20se%20convertir%E1%20en%20el%20contenido%20de%20la%20actualizaci%F3n%20mientras%20que%20el%20cuerpo%20ser%E1%20a%F1adido%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="304" y="254" w="-1" h="-1" measuredW="128" measuredH="25" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>como%20un%20comentario.</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="304" y="279" w="-1" h="-1" measuredW="332" measuredH="25" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Project%20Test%20Update%20%3Cstatus.100112@wedoist.net%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="234" y="37" w="-1" h="-1" measuredW="220" measuredH="25" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tareas%20o%20actualizaciones%20por%20email</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="245" y="313" w="-1" h="-1" measuredW="341" measuredH="25" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Establecer%20fechas%20de%20vencimiento%20en%20emails%20de%20tareas</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="243" y="337" w="-1" h="-1" measuredW="622" measuredH="25" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Establezca%20fechas%20de%20entrega%20directamente%20desde%20su%20cliente%20de%20email.%20Simplemente%20incluya%20%3Cdate%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="243" y="354" w="-1" h="-1" measuredW="665" measuredH="25" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>tomorrow%3E%20en%20el%20asunto%20o%20en%20el%20cuerpo%20del%20email.%20Puede%20utilizar%20todas%20las%20fechas%20de%20Wedoist%20como%20%3Cdate%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="243" y="396" w="-1" h="-1" measuredW="110" measuredH="25" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Asignar%20personas</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="243" y="368" w="-1" h="-1" measuredW="174" measuredH="25" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>monday%3E%20o%20%3Cdate%2019%20nov%3E.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Label" x="243" y="411" w="-1" h="-1" measuredW="651" measuredH="25" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Asignar%20y%20notificar%20personas%20escribiendo%20@%20seguido%20de%20su%20nombre%20%28por%20ejemplo%20@pablo%20o%20@todos%29%20en%20el</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="244" y="428" w="-1" h="-1" measuredW="211" measuredH="25" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>asunto%20o%20en%20el%20cuerpo%20del%20email.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Label" x="246" y="459" w="-1" h="-1" measuredW="123" measuredH="25" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Adjuntar%20etiquetas</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Label" x="248" y="478" w="-1" h="-1" measuredW="671" measuredH="25" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Etiquete%20sus%20detalles%20de%20email%20incluyendo%20etiquetas%20%28por%20ejemplo%20@decompras%29%20en%20el%20asunto%20o%20en%20el%20cuerpo%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="250" y="496" w="-1" h="-1" measuredW="72" measuredH="25" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>del%20email.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Label" x="246" y="521" w="-1" h="-1" measuredW="204" measuredH="25" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Direcciones%20de%20email%20que%20utiliza</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="246" y="548" w="657" h="25" measuredW="657" measuredH="25" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Solo%20aceptamos%20emails%20desde%20una%20direcci%F3n%20de%20email%20que%20conozcamos.%20Si%20quiere%20enviar%20emails%20desde%20otras</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="246" y="567" w="306" h="25" measuredW="306" measuredH="25" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>direcciones%20de%20email%2C%20escr%EDbalas%20a%20continuaci%F3n.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="249" y="601" w="-1" h="-1" measuredW="348" measuredH="25" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>o%20jorghino.r@gmail.com%20%28su%20direcci%F3n%20de%20email%20principal%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="253" y="645" w="-1" h="-1" measuredW="58" measuredH="25" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Su%20email</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Canvas" x="344" y="639" w="185" h="35" measuredW="100" measuredH="70" zOrder="31" locked="false" isInGroup="-1"/>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Button" x="344" y="685" w="-1" h="-1" measuredW="131" measuredH="28" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%F1adir%20otro%20email</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
