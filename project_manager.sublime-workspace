@@ -395,25 +395,9 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 352.0,
+		"height": 392.0,
 		"selected_items":
 		[
-			[
-				"ind",
-				"Indentation: Reindent Lines"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
-				"pack",
-				"Package Control: Remove Package"
-			],
-			[
-				"plain",
-				"Set Syntax: Plain Text"
-			],
 			[
 				"insta",
 				"Package Control: Install Package"
@@ -475,6 +459,10 @@
 				"View: Toggle Side Bar"
 			],
 			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
 				"instal",
 				"Package Control: Install Package"
 			],
@@ -487,7 +475,7 @@
 				"Preferences: Browse Packages"
 			]
 		],
-		"width": 464.0
+		"width": 400.0
 	},
 	"console":
 	{
@@ -504,12 +492,14 @@
 	},
 	"file_history":
 	[
-		"/C/xampp/htdocs/project_manager_master/.gitignore",
-		"/C/xampp/htdocs/project_manager_master/mockups/main.bmml",
-		"/C/xampp/htdocs/project_manager_master/application/config/config.php",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-109/styles.css",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-109/sidebar.phtml",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-109/custom.css",
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-109/new.phtml",
 		"/C/xampp/htdocs/project_manager_master/git_commands/commands.TODO",
-		"/C/Documents and Settings/John/Datos de programa/Sublime Text 2/Packages/User/PlainTasks.sublime-settings",
-		"/C/Documents and Settings/John/Datos de programa/Sublime Text 2/Packages/PlainTasks/PlainTasks (Windows).sublime-settings",
+		"/C/xampp/htdocs/project_manager_master/license.txt",
+		"/C/xampp/htdocs/project_manager_master/README.md",
+		"/C/xampp/htdocs/project_manager_master/project_manager.sublime-project",
 		"/C/Users/ray/AppData/Local/Temp/fz3temp-109/helpful-content-widget.php",
 		"/C/Users/ray/AppData/Local/Temp/fz3temp-109/shortcodes 2.php",
 		"/C/Users/ray/AppData/Local/Temp/fz3temp-109/wp-config.php",
@@ -629,9 +619,7 @@
 		"/C/Users/ray/AppData/Local/Temp/fz3temp-107/property_metaboxes.php",
 		"/C/Users/ray/AppData/Local/Temp/fz3temp-105/style 4.css",
 		"/C/Users/ray/AppData/Local/Temp/fz3temp-105/mj-template.css",
-		"/C/Users/ray/AppData/Local/Temp/fz3temp-105/header.php",
-		"/C/Users/ray/AppData/Local/Temp/fz3temp-105/mjmenu.css",
-		"/C/Users/ray/AppData/Local/Temp/fz3temp-105/searchform.css"
+		"/C/Users/ray/AppData/Local/Temp/fz3temp-105/header.php"
 	],
 	"find":
 	{
@@ -819,7 +807,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 33.0
 	},
 	"layout":
 	{
@@ -867,23 +855,11 @@
 	},
 	"select_project":
 	{
-		"height": 500.0,
+		"height": 0.0,
 		"selected_items":
 		[
-			[
-				"finder",
-				"/C/xampp/htdocs/crmci/CRM Modifinder.sublime-project"
-			],
-			[
-				"modifi",
-				"/C/xampp/htdocs/crmci/CRM Modifinder.sublime-project"
-			],
-			[
-				"modi",
-				"/C/xampp/htdocs/crmci/CRM Modifinder.sublime-project"
-			]
 		],
-		"width": 380.0
+		"width": 0.0
 	},
 	"show_minimap": true,
 	"show_open_files": false,
